@@ -1,0 +1,14 @@
+{
+  "name": "mimi-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Scott Ballantyne",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.342.0"
+  }
+}
