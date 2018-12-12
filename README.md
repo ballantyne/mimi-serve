@@ -1,7 +1,7 @@
 mimi-server (把秘密放在云)
 =========
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ballantyne/mimi-serve)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ballantyne/mimi-server)
 
 To put your encrypted secrets in the cloud, click the deploy button above and then clone the repo and add these configuration settings.  This repo should be very easy to modify so that it can be used with other cloud providers.  If someone wants to do that work I welcome the contributions.
 
