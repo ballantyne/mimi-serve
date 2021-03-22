@@ -1,7 +1,7 @@
 {
   "name": "Mimi Serve",
   "description": "A proxy to receive mimis",
-  "repository": "https://github.com/ballantyne/mimi-serve",
+  "repository": "https://github.com/ballantyne/mimi-server",
   "logo": "https://github.com/ballantyne/mimi-serve/raw/master/mimi.png",
   "keywords": ["mimi"],
   "env": {
